@@ -1,6 +1,4 @@
 h1{
-    color:tomato;
-}
-p{
-    background-color: aqua;
+    border:1px solid tomato;
+    text-align: center;
 }
